@@ -1,0 +1,100 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ervin Santacruz",
+    "label": "photographer",
+    "image": "",
+    "email": "epiktk204@yahoo.com",
+    "phone": "7027122024",
+    "url": "",
+    "summary": "",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ervin-santacruz-a2825a169",
+        "url": "https://www.linkedin.com/in/ervin-santacruz-a2825a169/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": null,
+      "position": "Entertainment",
+      "startDate": "2021-05-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": null,
+      "url": "",
+      "location": null
+    },
+    {
+      "name": "EXPRESS-POSTCARDS",
+      "position": "Sales Photographer",
+      "startDate": "2020-06-30",
+      "endDate": "2021-05-31",
+      "highlights": [],
+      "summary": null,
+      "url": "",
+      "location": "Las Vegas, Nevada, United States"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Chaparral High School  ",
+      "area": "",
+      "studyType": "",
+      "startDate": "2015-12-31",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "English",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
