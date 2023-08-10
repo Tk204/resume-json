@@ -22,14 +22,14 @@
   },
   "work": [
     {
-      "name": null,
+      "name": "",
       "position": "Entertainment",
       "startDate": "2021-05-31",
       "endDate": "",
       "highlights": [],
-      "summary": null,
+      "summary": "",
       "url": "",
-      "location": null
+      "location": ""
     },
     {
       "name": "EXPRESS-POSTCARDS",
@@ -37,7 +37,7 @@
       "startDate": "2020-06-30",
       "endDate": "2021-05-31",
       "highlights": [],
-      "summary": null,
+      "summary": "",
       "url": "",
       "location": "Las Vegas, Nevada, United States"
     }
